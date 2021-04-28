@@ -1,2 +1,7 @@
-# minicurso-de-python
- Automatização de processos e tarefas utilizando o Python.
+# Minicurso de Python da Hashtag Programação
+
+ Automação de processos e tarefas utilizando o Python.
+
+ ## Importação de pacotes para o PyCharm 
+    1. `pip install pandas`
+    2. `pip install openpyxl`
